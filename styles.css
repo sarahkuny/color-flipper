@@ -1,0 +1,26 @@
+body {
+    background-color: #c7d6ed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0 ;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 16px;
+}
+
+li a {
+    
+}
+
+
